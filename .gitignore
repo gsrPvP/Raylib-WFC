@@ -1,0 +1,22 @@
+# Compilados
+*.exe
+*.obj
+*.o
+*.a
+*.so
+*.dll
+
+# Pasta de build
+build/
+out/
+
+# Binários temporários
+*.log
+
+# Raylib compilado
+raylib/
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile

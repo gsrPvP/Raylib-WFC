@@ -1,0 +1,12 @@
+{
+    "towers": [
+        {"id": "TOWER_PISTOL",  "name": "Tower Pistol", "damage": 10,   "range": 100,   "firerate": 0.9, "cost": 10},
+        {"id": "TOWER_ICE",     "name": "Tower Ice",    "damage": 7,    "range": 80,    "firerate": 1.1, "cost": 14},
+        {"id": "TOWER_FLAME",   "name": "Tower Flame",  "damage": 15,   "range": 130,   "firerate": 1.5, "cost": 20}
+    ],
+    "enemies": [
+        {"id": "SIMPLE_ZOMBIE", "name": "Zombie",       "health": 30,   "speed": 30,    "size":8},
+        {"id": "RACER_ZOMBIE",  "name": "Dead Runner",  "health": 30,   "speed": 45,    "size":6},
+        {"id": "TANK_ZOMBIE",   "name": "Tank Zombie",  "health": 30,   "speed": 25,    "size":12}
+    ]
+}
