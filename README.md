@@ -1,2 +1,4 @@
 # Raylib-Game
-Primeira tentativa de um algoritmo de Wave Function collapse , utilizando a biblioteca raylib para renderização simples e C
+TowerDefense - CardGame
+
+Jogo em estagio inicial feito em C usando a library Raylib
